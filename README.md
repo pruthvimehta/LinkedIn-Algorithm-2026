@@ -30,13 +30,12 @@ Say any of these in Claude Code:
 
 ## How to Install
 
-1. Click on **`SKILL.md`** in this repo → click the **Raw** button → right-click anywhere on the page → **Save As** → save the file
-2. On your Mac, open **Finder** → click **Go** in the menu bar → **Go to Folder** → type `~/.claude/skills/` → hit Enter
-3. Create a new folder inside called `linkedin-algorithm-2026-general`
-4. Move the downloaded `SKILL.md` file into that folder
-5. Restart Claude Code
+1. Download the **`SKILL.md`** file from this repo (click it → click the download icon)
+2. Go to **[claude.ai](https://claude.ai)** → open the **Skills** section
+3. Click **Create Skill** → upload the downloaded `SKILL.md` file
+4. Save — the skill is now active in your Claude
 
-That's it. The skill is now active.
+That's it. No Terminal, no setup.
 
 ---
 
