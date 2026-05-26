@@ -33,7 +33,7 @@ Say any of these in Claude Code:
 1. Go to this GitHub repo → click the green **`<> Code`** button → **Download ZIP** → unzip it
 2. Open **Terminal** and run:
    ```bash
-   cp -r ~/Downloads/LinkedIn-Algorithm-2026-main ~/.claude/skills/linkedin-algorithm-2026-general
+   mkdir -p ~/.claude/skills/linkedin-algorithm-2026-general && cp ~/Downloads/LinkedIn-Algorithm-2026-main/SKILL.md ~/.claude/skills/linkedin-algorithm-2026-general/
    ```
 3. Restart Claude Code
 
