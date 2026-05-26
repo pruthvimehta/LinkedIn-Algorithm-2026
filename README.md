@@ -30,12 +30,11 @@ Say any of these in Claude Code:
 
 ## How to Install
 
-1. Go to this GitHub repo → click the green **`<> Code`** button → **Download ZIP** → unzip it
-2. Open **Terminal** and run:
-   ```bash
-   mkdir -p ~/.claude/skills/linkedin-algorithm-2026-general && cp ~/Downloads/LinkedIn-Algorithm-2026-main/SKILL.md ~/.claude/skills/linkedin-algorithm-2026-general/
-   ```
-3. Restart Claude Code
+1. Click on **`SKILL.md`** in this repo → click the **Raw** button → right-click anywhere on the page → **Save As** → save the file
+2. On your Mac, open **Finder** → click **Go** in the menu bar → **Go to Folder** → type `~/.claude/skills/` → hit Enter
+3. Create a new folder inside called `linkedin-algorithm-2026-general`
+4. Move the downloaded `SKILL.md` file into that folder
+5. Restart Claude Code
 
 That's it. The skill is now active.
 
