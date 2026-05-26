@@ -30,9 +30,9 @@ Say any of these in Claude Code:
 
 ## How to Install
 
-1. Download the **`SKILL.md`** file from this repo (click it → click the download icon)
+1. Click the green **`<> Code`** button on this page → **Download ZIP** → unzip it
 2. Go to **[claude.ai](https://claude.ai)** → open the **Skills** section
-3. Click **Create Skill** → upload the downloaded `SKILL.md` file
+3. Click **Create Skill** → upload the `SKILL.md` file from the unzipped folder
 4. Save — the skill is now active in your Claude
 
 That's it. No Terminal, no setup.
